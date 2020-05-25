@@ -1,3 +1,5 @@
+JavaScript
+
 This is a basketball inspired quiz
 which was made using JavaScript.
 I used DOM to select the classes and ID. 
